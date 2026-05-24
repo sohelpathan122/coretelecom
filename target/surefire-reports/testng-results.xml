@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-24T15:25:41 GMT-05:00" name="Suite" finished-at="2026-05-24T15:25:41 GMT-05:00" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite started-at="2026-05-24T15:24:00 GMT-05:00" name="Suite (0)" finished-at="2026-05-24T15:25:41 GMT-05:00" duration-ms="100997">
+    <groups>
+    </groups>
+    <test started-at="2026-05-24T15:24:00 GMT-05:00" name="Test" finished-at="2026-05-24T15:25:41 GMT-05:00" duration-ms="100997">
+      <class name="TestCases.RegisterTestCase1">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases.RegisterTestCase1@73d983ea]" started-at="2026-05-24T15:24:29 GMT-05:00" name="Setup" finished-at="2026-05-24T15:24:39 GMT-05:00" duration-ms="9502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Registration1()[pri:0, instance:TestCases.RegisterTestCase1@73d983ea]" started-at="2026-05-24T15:24:39 GMT-05:00" name="Registration1" finished-at="2026-05-24T15:24:41 GMT-05:00" duration-ms="2564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration1 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.RegisterTestCase1@73d983ea]" started-at="2026-05-24T15:24:41 GMT-05:00" name="TearDown" finished-at="2026-05-24T15:24:44 GMT-05:00" duration-ms="2524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.RegisterTestCase1 -->
+      <class name="TestCases.TestCase3">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases.TestCase3@36a5cabc]" started-at="2026-05-24T15:24:44 GMT-05:00" name="Setup" finished-at="2026-05-24T15:24:47 GMT-05:00" duration-ms="3060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="LoginProcess()[pri:0, instance:TestCases.TestCase3@36a5cabc]" started-at="2026-05-24T15:24:47 GMT-05:00" name="LoginProcess" finished-at="2026-05-24T15:25:01 GMT-05:00" duration-ms="14387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginProcess -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.TestCase3@36a5cabc]" started-at="2026-05-24T15:25:01 GMT-05:00" name="TearDown" finished-at="2026-05-24T15:25:04 GMT-05:00" duration-ms="3054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.TestCase3 -->
+      <class name="TestCases.TestCase4">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases.TestCase4@432038ec]" started-at="2026-05-24T15:25:04 GMT-05:00" name="Setup" finished-at="2026-05-24T15:25:15 GMT-05:00" duration-ms="10383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="MobileMapTestCase1()[pri:0, instance:TestCases.TestCase4@432038ec]" started-at="2026-05-24T15:25:15 GMT-05:00" name="MobileMapTestCase1" finished-at="2026-05-24T15:25:18 GMT-05:00" duration-ms="2781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileMapTestCase1 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.TestCase4@432038ec]" started-at="2026-05-24T15:25:18 GMT-05:00" name="TearDown" finished-at="2026-05-24T15:25:20 GMT-05:00" duration-ms="2565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.TestCase4 -->
+      <class name="TestCases.TestCase5">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases.TestCase5@69f1a286]" started-at="2026-05-24T15:24:00 GMT-05:00" name="Setup" finished-at="2026-05-24T15:24:12 GMT-05:00" duration-ms="12278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="MobileMapTestCase1()[pri:0, instance:TestCases.TestCase5@69f1a286]" started-at="2026-05-24T15:24:12 GMT-05:00" name="MobileMapTestCase1" finished-at="2026-05-24T15:24:15 GMT-05:00" duration-ms="2666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileMapTestCase1 -->
+        <test-method signature="JioPortal()[pri:0, instance:TestCases.TestCase5@69f1a286]" started-at="2026-05-24T15:24:15 GMT-05:00" name="JioPortal" finished-at="2026-05-24T15:24:26 GMT-05:00" duration-ms="11465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JioPortal -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.TestCase5@69f1a286]" started-at="2026-05-24T15:24:26 GMT-05:00" name="TearDown" finished-at="2026-05-24T15:24:29 GMT-05:00" duration-ms="2816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.TestCase5 -->
+      <class name="TestCases.TestCase2">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:TestCases.TestCase2@7daa0fbd]" started-at="2026-05-24T15:25:20 GMT-05:00" name="Setup" finished-at="2026-05-24T15:25:28 GMT-05:00" duration-ms="8275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Registration1()[pri:0, instance:TestCases.TestCase2@7daa0fbd]" started-at="2026-05-24T15:25:28 GMT-05:00" name="Registration1" finished-at="2026-05-24T15:25:31 GMT-05:00" duration-ms="2396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registration1 -->
+        <test-method signature="RegiCredintial()[pri:0, instance:TestCases.TestCase2@7daa0fbd]" started-at="2026-05-24T15:25:31 GMT-05:00" name="RegiCredintial" finished-at="2026-05-24T15:25:38 GMT-05:00" duration-ms="7123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegiCredintial -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestCases.TestCase2@7daa0fbd]" started-at="2026-05-24T15:25:38 GMT-05:00" name="TearDown" finished-at="2026-05-24T15:25:41 GMT-05:00" duration-ms="2782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestCases.TestCase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
